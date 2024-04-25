@@ -1,4 +1,5 @@
 {
+  "alpha-nvim": { "branch": "main", "commit": "41283fb402713fc8b327e60907f74e46166f4cfd" },
   "lazy.nvim": { "branch": "main", "commit": "3f13f080434ac942b150679223d54f5ca91e0d52" },
   "nvim-tree.lua": { "branch": "master", "commit": "62008e5cf2e8745c9d23bb599ef642963131057e" },
   "nvim-web-devicons": { "branch": "master", "commit": "beb6367ab8496c9e43f22e0252735fdadae1872d" },
