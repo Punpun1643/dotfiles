@@ -5,7 +5,6 @@ Personal macOS configuration — one repo, symlinked into place.
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell-zsh-89e051)
 ![Neovim](https://img.shields.io/badge/editor-Neovim-57A143?logo=neovim&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 The real config files live here under version control; your `$HOME` gets **symlinks** that point back into the repo. Edit either path — they're the same file — and `git` sees every change. A single `install.sh` recreates all the links on a fresh machine.
 
@@ -84,7 +83,3 @@ A [lazy.nvim](https://github.com/folke/lazy.nvim)-based config under `nvim/`. Hi
    link "foo/foorc" "$HOME/.foorc"
    ```
 3. Run `./install.sh` and commit.
-
-## License
-
-MIT
